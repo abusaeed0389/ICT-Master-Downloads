@@ -13,7 +13,7 @@ Here you can find the latest Android APK releases and installation instructions.
 
 ### Latest Version
 
-**Version:** 1.0.0
+**Version:** 2.0
 
 **Platform:** Android
 
